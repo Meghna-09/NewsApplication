@@ -1,0 +1,12 @@
+.background{
+    background-color: rgb(0, 140, 255);
+}
+.edit{
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    padding: 10px;
+}
+.mybtn:hover{
+    background-color:rgb(86, 150, 167) ;
+}
